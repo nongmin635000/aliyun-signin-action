@@ -15,5 +15,5 @@ jobs:
           REFRESH_TOKENS: ${{ secrets.REFRESH_TOKENS }}
           GP_TOKEN: ${{ secrets.GP_TOKEN}}
           PUSH_TYPES: 'pushplus'
-          PUSHPLUS_TOKEN: ${{ 2b5045e6b7d24347821d198725172c50 }}
+          PUSHPLUS_TOKEN: ${{ secrets.PUSHPLUS_TOKEN }}
           
