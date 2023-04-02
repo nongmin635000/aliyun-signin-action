@@ -16,4 +16,3 @@ jobs:
           GP_TOKEN: ${{ secrets.GP_TOKEN}}
           PUSH_TYPES: 'pushplus'
           PUSHPLUS_TOKEN: ${{ secrets.PUSHPLUS_TOKEN }}
-          
